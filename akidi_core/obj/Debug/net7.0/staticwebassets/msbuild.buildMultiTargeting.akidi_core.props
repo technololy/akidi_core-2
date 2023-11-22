@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/akidi_core.props" />
+</Project>

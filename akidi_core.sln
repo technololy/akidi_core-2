@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "akidi_core", "akidi_core\akidi_core.csproj", "{5C61690F-691C-40FF-847D-1608D32999F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddlewareAuth", "..\..\Projects\MiddlewareAuth\MiddlewareAuth\MiddlewareAuth.csproj", "{C57022AC-C3A4-4FE3-91C6-02A91CFFA10C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddlewareAuth.Models", "..\..\Projects\MiddlewareAuth\MiddlewareAuth.Models\MiddlewareAuth.Models.csproj", "{49FE3AF4-700A-4B48-BB43-8F45A1F93B45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C61690F-691C-40FF-847D-1608D32999F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C61690F-691C-40FF-847D-1608D32999F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C61690F-691C-40FF-847D-1608D32999F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C61690F-691C-40FF-847D-1608D32999F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C57022AC-C3A4-4FE3-91C6-02A91CFFA10C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C57022AC-C3A4-4FE3-91C6-02A91CFFA10C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C57022AC-C3A4-4FE3-91C6-02A91CFFA10C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C57022AC-C3A4-4FE3-91C6-02A91CFFA10C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49FE3AF4-700A-4B48-BB43-8F45A1F93B45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49FE3AF4-700A-4B48-BB43-8F45A1F93B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49FE3AF4-700A-4B48-BB43-8F45A1F93B45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49FE3AF4-700A-4B48-BB43-8F45A1F93B45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87E94BC8-4AC1-497B-8D9F-EFEE39A66171}
+	EndGlobalSection
+EndGlobal
